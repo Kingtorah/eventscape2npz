@@ -8,4 +8,4 @@ Depth map: npy
 rgb: png
 Event: npz(x,y,t,p)
 and their respective frame formats
-![image](https://github.com/Kingtorah/eventscape2npz/assets/98264691/eb4078a9-17b0-4770-80e4-5d4a57f93069)
+
