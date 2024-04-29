@@ -9,10 +9,17 @@ rgb: png;
 Event: npz(x,y,t,p);
 and their respective frame formats
 
-The RAMNet work uses the EventScape dataset which can be downloaded here:
+## EventScape
+
+This work uses the EventScape dataset which can be downloaded here:
 
 * [Training Set (71 Gb)](http://rpg.ifi.uzh.ch/data/RAM_Net/dataset/Town01-03_train.zip)
 * [Validation Set (12 Gb)](http://rpg.ifi.uzh.ch/data/RAM_Net/dataset/Town05_val.zip)
 * [Test Set (14 Gb)](http://rpg.ifi.uzh.ch/data/RAM_Net/dataset/Town05_test.zip)
+
+
+<p align="center">
+    <img src="doc/event_scape_s01_preview_w.gif" alt="Video to Events" width="800"/>
+</p>
 
 
