@@ -17,9 +17,7 @@ This work uses the EventScape dataset which can be downloaded here:
 * [Validation Set (12 Gb)](http://rpg.ifi.uzh.ch/data/RAM_Net/dataset/Town05_val.zip)
 * [Test Set (14 Gb)](http://rpg.ifi.uzh.ch/data/RAM_Net/dataset/Town05_test.zip)
 
+![image](https://github.com/Kingtorah/eventscape2npz/assets/98264691/7310a92a-2397-4e70-9126-978dcb3d9af8)
 
-<p align="center">
-    <img src="doc/event_scape_s01_preview_w.gif" alt="Video to Events" width="800"/>
-</p>
 
 
